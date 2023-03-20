@@ -1,3 +1,5 @@
+package Modul1.latihan;
+
 public class Hidangan {
     protected String namaHidangan;
 

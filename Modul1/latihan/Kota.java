@@ -1,3 +1,5 @@
+package Modul1.latihan;
+
 public class Kota<E> {
     private E element;
 

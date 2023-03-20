@@ -1,3 +1,5 @@
+package Modul1.latihan;
+
 public class Konsumsi <M, I> {
     private  M m;
     private I i;

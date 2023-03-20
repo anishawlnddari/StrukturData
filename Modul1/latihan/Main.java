@@ -1,3 +1,5 @@
+package Modul1.latihan;
+
 import java.util.ArrayList;
 
 public class Main {
